@@ -12,21 +12,6 @@ A simple, web-based digital calculator built using **HTML**, **CSS**, and **Java
 
 ---
 
-## 📁 Project Structure
-
-```
-/
-├── index.html       # Main HTML interface
-├── css/
-│   └── styles.css   # Styles and layout
-├── js/
-│   └── script.js    # Calculator logic
-├── img/             # Optional images/icons
-└── README.md        # Project overview and documentation
-```
-
----
-
 ## 🛠️ Getting Started
 
 1. **Clone this repository**  
